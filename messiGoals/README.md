@@ -21,7 +21,7 @@ Messi goal scoring statistics:
 1) Create these three variables and store the appropriate values using the table above:
 
     laLigaGoals
-
+    
     championsLeagueGoals
 
     copaDelReyGoals

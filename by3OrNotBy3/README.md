@@ -6,12 +6,12 @@ Given a series of numbers as a string, determine if the number represented by th
 
 You can expect all test case arguments to be strings representing values greater than 0.
 
-Example:
+## Example:
 
-"123"      -> true
-"8409"     -> true
-"100853"   -> false
-"33333333" -> true
-"7"        -> false
+    "123"      -> true
+    "8409"     -> true
+    "100853"   -> false
+    "33333333" -> true
+    "7"        -> false
 
 [Link](https://www.codewars.com/kata/59f7fc109f0e86d705000043/train/javascript)

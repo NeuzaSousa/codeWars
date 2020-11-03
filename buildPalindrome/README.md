@@ -6,7 +6,7 @@ Given a string str, find the shortest possible string which can be achieved by a
 
 ## Example
 
-For str = "abcdc", the output should be "abcdcba".
+    For str = "abcdc", the output should be "abcdcba".
 
 ## Input/Output
 
@@ -14,7 +14,7 @@ For str = "abcdc", the output should be "abcdcba".
 
 A string consisting of lowercase latin letters.
 
-Constraints: 3 ≤ str.length ≤ 10.
+    Constraints: 3 ≤ str.length ≤ 10.
 
 ### Output
 

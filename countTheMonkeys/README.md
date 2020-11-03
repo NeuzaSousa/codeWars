@@ -6,7 +6,7 @@ As a good parent, you will sit and count with him. Given the number (n), populat
 
 For example:
 
-monkeyCount(10) // --> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-monkeyCount(1) // --> [1]
+    monkeyCount(10) // --> [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+    monkeyCount(1) // --> [1]
 
 [Link](https://www.codewars.com/kata/56f69d9f9400f508fb000ba7/train/javascript)
